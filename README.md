@@ -1,7 +1,8 @@
-# FBI-Webhook-Spammer
+# FBI Webhook Spammer - por user 001.
 O FBI WS (Webhook Spammer) é uma ferramenta onde você pode facilmente enviar mensagens repetidamente, em outra palavras um *"spammer"* por meio de um [*Webhook*](https://support.discord.com/hc/pt-br/articles/228383668). Com o FBI WS, você pode **"spammar"** facilmente, basta apenas executá-lo. Para usar/instalar o FBI WS, você precisará:
 
-* [Python](https://python.org/) 2.7 ou superior - **OBSERVAÇÃO:** Quando você for instalar o Python em seu Windows, você precisará "Adicionar o PATH" para que você possa usar o comando `python` ou `py` no promt de comando.
+* [Python](https://python.org/) 2.7 ou superior.
+> **OBSERVAÇÃO:** Quando você for instalar o Python em seu Windows, você precisará "Adicionar o PATH" para que você possa usar o comando `python` ou `py` no promt de comando.
 
 # Instalando o FBI Webhook Spammer
 ### Instalando pelo GitHub
@@ -61,5 +62,12 @@ Resultado:
 # Créditos
 Criador: user 001.
 
-# Servidor do Discord
+# Servidor do Discord - FBI FIVE-0 (servidor do criador deste projeto)
+Clique [aqui](https://discord.gg/g9GeX7JyAH) para entrar no servidor do FBI FIVE-0.
 
+# Divulgação - Brokenzada
+![image](https://user-images.githubusercontent.com/101312928/167342884-e880e1b0-df37-41b1-b165-6f56db1b4252.png)
+
+discord.gg/brokenzada ou clique [aqui](https://discord.gg/f7ME6YGmRE).
+
+(C) 2022 FBI FIVE-0, user 001
