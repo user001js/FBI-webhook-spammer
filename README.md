@@ -1,3 +1,13 @@
+<div id="top"></div>
+<p align="center">
+<img src=https://img.shields.io/github/languages/top/user001js/FBI-webhook-spammer?colors=6699ff&style=for-the-badge />
+<img src=https://img.shields.io/github/stars/user001js/FBI-webhook-spammer?color=6699ff&style=for-the-badge />
+<img src=https://img.shields.io/github/issues/user001js/FBI-webhook-spammer?color=6699ff&style=for-the-badge />
+<img src=https://img.shields.io/github/forks/user001js/FBI-webhook-spammer?color=6699ff&style=for-the-badge />
+<img src=https://img.shields.io/github/license/user001js/FBI-webhook-spammer?color=6699ff&style=for-the-badge />
+<img src=https://img.shields.io/github/downloads/user001js/FBI-webhook-spammer/total?color=6699ff&style=for-the-badge />
+</p>
+
 # FBI Webhook Spammer - por user 001.
 O FBI WS (Webhook Spammer) é uma ferramenta onde você pode facilmente enviar mensagens repetidamente, em outra palavras um *"spammer"* por meio de um [*Webhook*](https://support.discord.com/hc/pt-br/articles/228383668). Com o FBI WS, você pode **"spammar"** facilmente, basta apenas executá-lo. Para usar/instalar o FBI WS, você precisará:
 
